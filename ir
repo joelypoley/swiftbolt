@@ -1,0 +1,2 @@
+#!/bin/bash
+watch swiftc -emit-ir -Xfrontend -disable-llvm-optzns -O Sources/swiftbolt/main.swift

@@ -1,0 +1,2 @@
+#!/bin/bash
+watch swiftc -S -O Sources/swiftbolt/main.swift
