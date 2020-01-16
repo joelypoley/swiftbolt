@@ -8,3 +8,5 @@ Type
 ./run
 ```
 and then edit `Sources/swiftbolt/main.swift`. The output of `main.swift` is displayed and periodically refreshed.
+
+![](example.gif)
