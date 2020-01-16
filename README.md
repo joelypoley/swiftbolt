@@ -7,4 +7,4 @@ Type
 ```
 ./run
 ```
-and then edit `Sources/swiftbolt/main.swift`. The output of the program is displayed and periodically refreshed.
+and then edit `Sources/swiftbolt/main.swift`. The output of `kmain.swift` is displayed and periodically refreshed.
