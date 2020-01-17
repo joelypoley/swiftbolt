@@ -1,5 +1,5 @@
 # swiftbolt
-A janky [compiler explorer](http://godbolt.org) for Swift. The real compiler explorer doesn't support code execution for Swift.
+Type Swift code and see the output in real time. Inspired by [Compiler Explorer](http://godbolt.org). Unfortunately Compiler Explorer only supports code execution for C++.
 
 # Example
 
