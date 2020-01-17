@@ -5,7 +5,8 @@ A janky [compiler explorer](http://godbolt.org) for Swift. The real compiler exp
 
 Type
 ```
-./run
+$ cd path/to/swiftbolt
+$ ./run
 ```
 and then edit `Sources/swiftbolt/main.swift`. The output of `main.swift` is displayed and periodically refreshed.
 
