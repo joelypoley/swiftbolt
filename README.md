@@ -5,8 +5,8 @@ Type Swift code and see the output in real time. Inspired by [Compiler Explorer]
 
 Type
 ```shell
-$ cd path/to/swiftbolt
-$ ./run
+cd path/to/swiftbolt
+./run
 ```
 and then edit `Sources/swiftbolt/main.swift`. The output of `main.swift` is displayed and periodically refreshed.
 
