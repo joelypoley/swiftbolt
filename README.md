@@ -4,7 +4,7 @@ Type Swift code and see the output in real time. Inspired by [Compiler Explorer]
 # Example
 
 Type
-```
+```shell
 $ cd path/to/swiftbolt
 $ ./run
 ```
